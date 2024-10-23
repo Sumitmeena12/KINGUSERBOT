@@ -1,14 +1,14 @@
 {
-    "name": "Branded-Userbot",
-    "description": "Branded-Userbot is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
+    "name": "Dragon-Userbot",
+    "description": "Dragon-Userbot is an advanced & powerful multi-featured Telegram userbot.",
+    "logo": "https://vault.pictures/p/f7524cb2c98943f6a2b790fccb75ac5b",
     "keywords": [
         "genius-userbot",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/Sumitmeena12/KINGUSERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
