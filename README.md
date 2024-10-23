@@ -1,15 +1,15 @@
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
+    ──「 DRAGON 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/Sumitmeena12/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Dragon-Userbot"/></a>
 </p>
 
 <h2 align="center">
-    ──「 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
+    ──「 DRAGON 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
     
     
-「[𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗫 𝗞𝗜𝗡𝗚❤️💣](https://t.me/BRANDRD_BOT)」
+「[DRAGON 𝗫 𝗞𝗜𝗡𝗚❤️💣](https://t.me/BRANDRD_BOT)」
 
 
 
@@ -28,7 +28,7 @@
 
 
 [![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
-   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
+   [![DRAGON  𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
 
 
 <h3 align="center">
