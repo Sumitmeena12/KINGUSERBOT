@@ -2,7 +2,7 @@
     ──「 DRAGON 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/Sumitmeena12/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Dragon-Userbot"/></a>
+<a href="https://github.com/Sumitmeena12/KINGUSERBOT"><img src="https://vault.pictures/p/f7524cb2c98943f6a2b790fccb75ac5b" height="270" width="480" alt="Dragon-Userbot"/></a>
 </p>
 
 <h2 align="center">
